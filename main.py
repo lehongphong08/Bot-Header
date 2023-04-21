@@ -2,7 +2,7 @@ import os
 import socket
 import subprocess
   
-# Create a socket
+
 def socket_create():
     
         global host
